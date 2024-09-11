@@ -1,0 +1,16 @@
+#box1{
+    border: solid ;
+height: 200px;
+background-color: coral;
+}
+#box2{
+    border: solid;
+height: 200px;
+background-color: rgb(251, 247, 245);
+}
+#box3{
+    border: solid;
+height: 200px;
+background-color: rgb(4, 73, 12);
+}
+
